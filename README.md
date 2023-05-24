@@ -5,15 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Yelzhas</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yelzhas-assylkhan-91292422a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yelzhas-assylkhan-91292422a" height="30" width="40" /></a>
-<a href="https://instagram.com/yelzhas_inf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yelzhas_inf" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yelzhas_taubay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yelzhas_taubay" height="30" width="40" /></a>
-<a href="https://discord.gg/1027153393556393995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1027153393556393995" height="30" width="40" /></a>
-</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yelzhastaubay&show_icons=true&locale=en" alt="yelzhastaubay" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -37,7 +29,15 @@
 
 💻💡🏹⚠✅
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/yelzhas-assylkhan-91292422a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yelzhas-assylkhan-91292422a" height="30" width="40" /></a>
+<a href="https://instagram.com/yelzhas_inf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yelzhas_inf" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yelzhas_taubay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yelzhas_taubay" height="30" width="40" /></a>
+<a href="https://discord.gg/1027153393556393995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1027153393556393995" height="30" width="40" /></a>
+</p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yelzhastaubay&show_icons=true&locale=en" alt="yelzhastaubay" /></p>
 
 
 
