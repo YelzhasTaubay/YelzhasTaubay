@@ -4,7 +4,6 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h1 align="center">Hi 👋, I'm Yelzhas</h1>
-<h3 align="center">🤓 Highly motivated and detail-oriented Java Developer with a strong passion for coding and a solid foundation in Java development. Seeking a challenging position in a dynamic organization where I can apply my technical skills, learn from experienced professionals, and contribute to the development of innovative software solutions.</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yelzhastaubay&show_icons=true&locale=en" alt="yelzhastaubay" /></p>
 
@@ -39,6 +38,8 @@
 <a href="https://discord.gg/1027153393556393995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1027153393556393995" height="30" width="40" /></a>
 </p>
 
+
+<h3 align="center">🤓 Highly motivated and detail-oriented Java Developer with a strong passion for coding and a solid foundation in Java development. Seeking a challenging position in a dynamic organization where I can apply my technical skills, learn from experienced professionals, and contribute to the development of innovative software solutions.</h3>
 
 
 
