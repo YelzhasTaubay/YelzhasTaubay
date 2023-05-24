@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Елжас  галактика бесконечность звезда луна_Kandinsky 2 1](https://github.com/YelzhasTaubay/YelzhasTaubay/assets/97426118/e203b913-0430-47d5-a974-02124bf56ef4)
+![Таубай](https://github.com/YelzhasTaubay/YelzhasTaubay/assets/97426118/1db760c5-827e-4274-b16f-1ed593722d6f)
 
 <!--
 **YelzhasTaubay/YelzhasTaubay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
