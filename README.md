@@ -1,16 +1,10 @@
-                                       
-<img src="https://github.com/YelzhasTaubay/YelzhasTaubay/assets/97426118/1db760c5-827e-4274-b16f-1ed593722d6f" width=100% height=35%>
+<h1 align="center">Hi 👋, I'm Yelzhas</h1>
+  
+<img src="https://github.com/YelzhasTaubay/YelzhasTaubay/assets/97426118/1db760c5-827e-4274-b16f-1ed593722d6f" width=100% height=30%>
                                                 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h1 align="center">Hi 👋, I'm Yelzhas</h1>
-
-
-
 <h3 align="left">Languages and Tools:</h3>
-
-
-
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,8 +20,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)         
 
-
 💻💡🏹⚠✅
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yelzhastaubay&show_icons=true&locale=en" alt="yelzhastaubay" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,7 +32,7 @@
 <a href="https://discord.gg/1027153393556393995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1027153393556393995" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yelzhastaubay&show_icons=true&locale=en" alt="yelzhastaubay" /></p>
+
 
 
 
