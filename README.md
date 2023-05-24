@@ -1,8 +1,6 @@
-### Hi there, I'm Java developer 👋
+                                            ### Hi there, I'm Java developer 👋
 
-![Таубай](https://github.com/YelzhasTaubay/YelzhasTaubay/assets/97426118/1db760c5-827e-4274-b16f-1ed593722d6f | width=100)
-
-<img src="https://github.com/YelzhasTaubay/YelzhasTaubay/assets/97426118/1db760c5-827e-4274-b16f-1ed593722d6f" width=100% height=50%>
+<img src="https://github.com/YelzhasTaubay/YelzhasTaubay/assets/97426118/1db760c5-827e-4274-b16f-1ed593722d6f" width=120% height=50%>
 
 **YelzhasTaubay/YelzhasTaubay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
