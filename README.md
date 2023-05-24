@@ -4,7 +4,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h1 align="center">Hi 👋, I'm Yelzhas</h1>
-<h3 align="center">🤓 Highly motivated and detail-oriented Junior Java Developer with a strong passion for coding and a solid foundation in Java development. Seeking a challenging position in a dynamic organization where I can apply my technical skills, learn from experienced professionals, and contribute to the development of innovative software solutions.</h3>
+<h3 align="center">🤓 Highly motivated and detail-oriented Java Developer with a strong passion for coding and a solid foundation in Java development. Seeking a challenging position in a dynamic organization where I can apply my technical skills, learn from experienced professionals, and contribute to the development of innovative software solutions.</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yelzhastaubay&show_icons=true&locale=en" alt="yelzhastaubay" /></p>
 
