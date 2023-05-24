@@ -2,6 +2,7 @@
 
 ![Таубай](https://github.com/YelzhasTaubay/YelzhasTaubay/assets/97426118/1db760c5-827e-4274-b16f-1ed593722d6f | width=100)
 
+![image]([https://your-image-url.type](https://github.com/YelzhasTaubay/YelzhasTaubay/assets/97426118/1db760c5-827e-4274-b16f-1ed593722d6f)) with <img src="https://your-image-url.type" width="100" height="100">
 <!--
 **YelzhasTaubay/YelzhasTaubay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
