@@ -31,7 +31,20 @@ Technical Skills
 
 
 
-(<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg"
-   alt=”Yu Shi | LinkedIn” width=”21px”/></a>)
+<h1 align="center">Hi 👋, I'm Yelzhas</h1>
+<h3 align="center">Seeking an opportunity to contribute my technical skills and collaborate with a dynamic team to create innovative software solutions.</h3>
+
+- 🔭 I’m currently working on [Telegram Bot](https://github.com/YelzhasTaubay/StrongTeamBackendAssignment)
+
+- 👯 I’m looking to collaborate on **asfg**
+
+- 🤝 I’m looking for help with **SAFEGFBG**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://emberjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
           
 
