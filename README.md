@@ -3,7 +3,7 @@
 <img src="https://github.com/YelzhasTaubay/YelzhasTaubay/assets/97426118/1db760c5-827e-4274-b16f-1ed593722d6f" width=100% height=25%>
                                                 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YelzhasTaubay)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 
