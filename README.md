@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yelzhas</h1>
 
 ![Alt text](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif)
+
+<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" width="300" height="200">
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
