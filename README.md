@@ -1,12 +1,12 @@
 <h3 align="center">Hi 👋, I'm Yelzhas</h3>
    
-<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="900" height="270">
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="850" height="230">
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 <table border="0">
   <tr>
      <td>
-         <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" height="100">        
+         <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150" height="150">        
      </td>
     <td><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YelzhasTaubay&theme=nord_dark&exclude={exclude}" alt="yelzhastaubay" /></td>
     <td><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YelzhasTaubay&theme=nord_dark" alt="yelzhastaubay" /></td>
