@@ -3,7 +3,7 @@
 <img src="https://github.com/YelzhasTaubay/YelzhasTaubay/assets/97426118/1db760c5-827e-4274-b16f-1ed593722d6f" width=100% height=25%>
                                                 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YelzhasTaubay)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -22,8 +22,9 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)         
 
 💻💡🏹⚠✅
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yelzhastaubay&show_icons=true&locale=en" alt="yelzhastaubay" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YelzhasTaubay&theme=solarized" alt="yelzhastaubay" /></p>
 
 <h3 align="center">Willing to bring my expertise, passion and determination to the development of innovative software solutions. I am committed to continuous growth and dedicated to becoming a proficient and valuable member of a development team</h3>
 
