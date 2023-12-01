@@ -21,12 +21,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)         
 
-💻💡🏹⚠✅
-<div style="display: flex; justify-content: space-around;">  
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YelzhasTaubay&theme=nord_dark&exclude={exclude}" alt="yelzhastaubay" /></p>
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YelzhasTaubay&theme=nord_dark" alt="yelzhastaubay" /></p>
-</div>
-
 <table border="0">
   <tr>
     <td><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YelzhasTaubay&theme=nord_dark&exclude={exclude}" alt="yelzhastaubay" /></td>
