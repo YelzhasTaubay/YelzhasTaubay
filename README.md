@@ -2,7 +2,7 @@
 
 ![Alt text](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif)
 
-<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" width="300" height="200">
+<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" width="800" height="200">
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
