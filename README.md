@@ -22,9 +22,8 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)         
 
 💻💡🏹⚠✅
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}
 
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YelzhasTaubay&theme=solarized" alt="yelzhastaubay" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YelzhasTaubay&theme=nord_dark" alt="yelzhastaubay" /></p>
 
 <h3 align="center">Willing to bring my expertise, passion and determination to the development of innovative software solutions. I am committed to continuous growth and dedicated to becoming a proficient and valuable member of a development team</h3>
 
