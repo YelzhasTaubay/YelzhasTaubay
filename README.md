@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yelzhas</h1>
   
 <img src="https://github.com/YelzhasTaubay/YelzhasTaubay/assets/97426118/1db760c5-827e-4274-b16f-1ed593722d6f" width=100% height=25%>
-                                                
+
+
+ ![](./profile-3d-contrib/profile-green-animate.svg)                                               
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
