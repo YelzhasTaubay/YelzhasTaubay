@@ -11,7 +11,7 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
-      - uses: YelzhasTaubay/YelzhasTaubay/  
+      - uses: https://github.com/YelzhasTaubay/YelzhasTaubay@v0.7.1
       - name: Commit & Push
         run: |
           git config user.name YelzhasTaubay
