@@ -17,5 +17,5 @@ jobs:
           git config user.email "elzhas.96@mail.ru"
           git add -A .
           git commit -m "generated"
-          git remote add origin_with_token https://YelzhasTaubay:${{ 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 }}@github.com/YelzhasTaubay/YelzhasTaubay.git
+          git remote add origin_with_token https://YelzhasTaubay:${{ secrets.YELZHASTAUBAY }}@github.com/YelzhasTaubay/YelzhasTaubay.git
           git push origin_with_token main
