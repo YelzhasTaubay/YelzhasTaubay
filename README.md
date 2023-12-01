@@ -1,16 +1,6 @@
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400" height="200">
-    </td>
-    <td>
-      <h3 align="center">Hi 👋, I'm Yelzhas</h3>
-    </td>
-    <td>
-      <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" width="300" height="200">
-    </td>
-  </tr>
-</table>
+<h3 align="center">Hi 👋, I'm Yelzhas</h3>
+      <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE0MzYwODcsIm5iZiI6MTcwMTQzNTc4NywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjAxVDEzMDMwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMzNDNjMjYwMDdmNzlkNTg2OWJjNmI2NWUzYWNlMjAwODc2ZmEzODIzNDU4MjYzNzgxNjE2NzczOTc2YjgxMjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.CtGJex4rQmvalWH8F5QO4Qh1ih1tGD_NW1gTXaiYOCw" width="340" height="200">
+    
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
