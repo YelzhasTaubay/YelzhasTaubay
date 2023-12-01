@@ -14,8 +14,8 @@ jobs:
       # - uses: yoshi389111/github-profile-3d-contrib@0.7.1  
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name YelzhasTaubay
+          git config user.email elzhas.96@mail.ru
           git add -A .
           git commit -m "generated"
           git push
