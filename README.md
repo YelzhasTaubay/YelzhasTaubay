@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yelzhas</h1>
 
-![Alt text](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
-![Alt text](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+![Alt text](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
